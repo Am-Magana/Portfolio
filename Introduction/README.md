@@ -10,7 +10,7 @@ When I discoverd the Algorithmic classes, I found in them all of those aspects, 
 
 ## Why choosing ISS?
 
-![ISS Logo](.\Images\Logo_ISS.png)
+![ISS Logo](Images/Logo_ISS.png)
 
 In 3rd year, I discoverd network and telecom into classes and i really appreciate it. Its actually what made me sure that I wanted to peruse a career in computer science. In 4th year, I choose the communicating system minor despite not knowing anybody who was in it because I considered this was the most interesting part of computer science.
 
